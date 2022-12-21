@@ -5,6 +5,8 @@
 I really enjoy programming.
 that is why I love open source as well.
 
+[![Thomas jang's GitHub stats](https://github-readme-stats.vercel.app/api?username=thomasjang&show_icons=true)](https://github.com/thomasJang)
+
 - CEO at axisj.com
 - Former CO-Founder at QueryPie
 - Former Software engineer at NAMUSoft
@@ -15,5 +17,4 @@ that is why I love open source as well.
 
 https://www.linkedin.com/in/axisj-thomasjang/
 
-[![Thomas jang's GitHub stats](https://github-readme-stats.vercel.app/api?username=thomasjang&show_icons=true)](https://github.com/thomasJang)
 [![Thomas jang's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=thomasjang)](https://github.com/thomasJang)
