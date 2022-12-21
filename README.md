@@ -8,6 +8,7 @@ that is why I love open source as well.
 [![Thomas jang's GitHub stats](https://github-readme-stats.vercel.app/api?username=thomasjang&show_icons=true)](https://github.com/thomasJang)
 
 - CEO at axisj.com
+- Y Combinator(W20) 2020
 - Former CO-Founder at QueryPie
 - Former Software engineer at NAMUSoft
 - Former Software engineer at EStorm
